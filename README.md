@@ -1,6 +1,6 @@
-# CNN-CIFAR10-PyTorch
+# Convolutional Neural Network for CIFAR-10
 
-Convolutional Neural Network implemented in PyTorch for image classification on the CIFAR-10 dataset.
+Convolutional Neural Network implemented in PyTorch for image classification on the CIFAR-10 dataset. The project explores deep learning techniques, GPU-accelerated training and model evaluation using TensorBoard.
 
 ## Features
 
@@ -40,6 +40,14 @@ Convolutional Neural Network implemented in PyTorch for image classification on 
 - Trained for 50 epochs
 - Achieved approximately 72% validation accuracy on CIFAR-10
 - Observed overfitting after ~30 epochs during training
+
+## What I Learned
+
+- Building and training deep convolutional neural networks with PyTorch
+- Using CUDA acceleration for model training
+- Monitoring experiments with TensorBoard
+- Understanding overfitting and model generalization
+- Working with image classification datasets
 
 ## Run
 
